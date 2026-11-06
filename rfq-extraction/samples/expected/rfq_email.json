@@ -1,0 +1,191 @@
+{
+  "document_language": "en",
+  "client": {
+    "company_name": "Ganesh Material Handling Industries Pvt. Ltd.",
+    "contact_person": "Rahul Mehta",
+    "email": "rahul.mehta@example.com",
+    "phone": "+91 90000 12345",
+    "website": null,
+    "address": "Sanand GIDC, Ahmedabad, Gujarat",
+    "gst_number": null,
+    "client_reference_number": null
+  },
+  "rfq_details": {
+    "rfq_number": null,
+    "rfq_date": null,
+    "response_due_date": "27 October 2026",
+    "project_name": "Expansion of Assembly Unit, Ahmedabad",
+    "subject_or_summary": "We are looking to procure electric chain hoists and related components for our upcoming material handling project. Please review the requirements below and share your best technical and commercial quotation."
+  },
+  "delivery": {
+    "location": "Sanand GIDC, Ahmedabad, Gujarat",
+    "required_date": "within 4–6 weeks from the date of purchase order",
+    "instructions": null
+  },
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_name": "Electric Chain Hoist",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "2 Ton capacity, 3-phase, 415V, 50Hz, lifting height 6 metres, with pendant control",
+      "certifications_raw": null,
+      "quantity": 8,
+      "quantity_raw": "8",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Electric Chain Hoist, 2 Ton capacity, 3-phase, 415V, 50Hz, lifting height 6 metres, with pendant control – 8 Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 2,
+      "item_name": "Electric Chain Hoist",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "5 Ton capacity, 3-phase, 415V, 50Hz, lifting height 6 metres, with pendant control",
+      "certifications_raw": null,
+      "quantity": 4,
+      "quantity_raw": "4",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Electric Chain Hoist, 5 Ton capacity, 3-phase, 415V, 50Hz, lifting height 6 metres, with pendant control – 4 Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 3,
+      "item_name": "Manual Push Trolley",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "suitable for 2 Ton hoist",
+      "certifications_raw": null,
+      "quantity": 8,
+      "quantity_raw": "8",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Manual Push Trolley suitable for 2 Ton hoist – 8 Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 4,
+      "item_name": "Manual Push Trolley",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "suitable for 5 Ton hoist",
+      "certifications_raw": null,
+      "quantity": 4,
+      "quantity_raw": "4",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Manual Push Trolley suitable for 5 Ton hoist – 4 Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 5,
+      "item_name": "Alloy Steel Load Chain",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": "Grade 80",
+      "standard": null,
+      "size_raw": "10 mm diameter",
+      "other_specs": null,
+      "certifications_raw": null,
+      "quantity": 200,
+      "quantity_raw": "200",
+      "unit_raw": "metres",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Alloy Steel Load Chain, Grade 80, 10 mm diameter – 200 metres.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 6,
+      "item_name": "Hoist Brake Assembly",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "compatible with 2 Ton electric chain hoist",
+      "certifications_raw": null,
+      "quantity": 4,
+      "quantity_raw": "4",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Hoist Brake Assembly compatible with 2 Ton electric chain hoist – 4 Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    }
+  ],
+  "commercial_terms": {
+    "payment_terms": "30 days from delivery and acceptance of material.",
+    "freight_terms": "Please quote prices in INR, preferably on an FOR Sanand basis.",
+    "warranty": null,
+    "taxes": "GST should be mentioned separately.",
+    "other_terms": "- Quotation validity: Minimum 30 days.\n- Please mention the manufacturer, make, warranty period, and country of origin for each item.\n- Technical datasheets and product drawings must be attached wherever applicable.\n- Any deviations from the requested specifications should be clearly highlighted."
+  },
+  "attachments": [],
+  "missing_or_unclear": [
+    "Client GST number is absent.",
+    "RFQ number is absent.",
+    "RFQ date is absent."
+  ],
+  "unstructured_notes": "To: sales@yourcompany.com\n\nDear Sales Team,\n\nKindly confirm availability and provide the earliest possible delivery schedule. If any additional technical information is required, please let us know before submitting your quotation.\n\nRegards,\nPurchase Manager"
+}

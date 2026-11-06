@@ -1,0 +1,386 @@
+{
+  "type": "object",
+  "properties": {
+    "document_language": {
+      "type": "string",
+      "nullable": true
+    },
+    "client": {
+      "type": "object",
+      "properties": {
+        "company_name": {
+          "type": "string",
+          "nullable": true
+        },
+        "contact_person": {
+          "type": "string",
+          "nullable": true
+        },
+        "email": {
+          "type": "string",
+          "nullable": true
+        },
+        "phone": {
+          "type": "string",
+          "nullable": true
+        },
+        "website": {
+          "type": "string",
+          "nullable": true
+        },
+        "address": {
+          "type": "string",
+          "nullable": true
+        },
+        "gst_number": {
+          "type": "string",
+          "nullable": true
+        },
+        "client_reference_number": {
+          "type": "string",
+          "nullable": true
+        }
+      },
+      "required": [
+        "company_name",
+        "contact_person",
+        "email",
+        "phone",
+        "website",
+        "address",
+        "gst_number",
+        "client_reference_number"
+      ],
+      "propertyOrdering": [
+        "company_name",
+        "contact_person",
+        "email",
+        "phone",
+        "website",
+        "address",
+        "gst_number",
+        "client_reference_number"
+      ]
+    },
+    "rfq_details": {
+      "type": "object",
+      "properties": {
+        "rfq_number": {
+          "type": "string",
+          "nullable": true
+        },
+        "rfq_date": {
+          "type": "string",
+          "nullable": true
+        },
+        "response_due_date": {
+          "type": "string",
+          "nullable": true
+        },
+        "project_name": {
+          "type": "string",
+          "nullable": true
+        },
+        "subject_or_summary": {
+          "type": "string",
+          "nullable": true
+        }
+      },
+      "required": [
+        "rfq_number",
+        "rfq_date",
+        "response_due_date",
+        "project_name",
+        "subject_or_summary"
+      ],
+      "propertyOrdering": [
+        "rfq_number",
+        "rfq_date",
+        "response_due_date",
+        "project_name",
+        "subject_or_summary"
+      ]
+    },
+    "delivery": {
+      "type": "object",
+      "properties": {
+        "location": {
+          "type": "string",
+          "nullable": true
+        },
+        "required_date": {
+          "type": "string",
+          "nullable": true
+        },
+        "instructions": {
+          "type": "string",
+          "nullable": true
+        }
+      },
+      "required": [
+        "location",
+        "required_date",
+        "instructions"
+      ],
+      "propertyOrdering": [
+        "location",
+        "required_date",
+        "instructions"
+      ]
+    },
+    "line_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "line_no": {
+            "type": "integer",
+            "nullable": true
+          },
+          "item_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "part_number": {
+            "type": "string",
+            "nullable": true
+          },
+          "drawing_number": {
+            "type": "string",
+            "nullable": true
+          },
+          "brand_or_make": {
+            "type": "string",
+            "nullable": true
+          },
+          "material": {
+            "type": "string",
+            "nullable": true
+          },
+          "grade": {
+            "type": "string",
+            "nullable": true
+          },
+          "standard": {
+            "type": "string",
+            "nullable": true
+          },
+          "size_raw": {
+            "type": "string",
+            "nullable": true
+          },
+          "other_specs": {
+            "type": "string",
+            "nullable": true
+          },
+          "certifications_raw": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "number",
+            "nullable": true
+          },
+          "quantity_raw": {
+            "type": "string",
+            "nullable": true
+          },
+          "unit_raw": {
+            "type": "string",
+            "nullable": true
+          },
+          "target_price_raw": {
+            "type": "string",
+            "nullable": true
+          },
+          "item_delivery_date": {
+            "type": "string",
+            "nullable": true
+          },
+          "remarks": {
+            "type": "string",
+            "nullable": true
+          },
+          "source_text": {
+            "type": "string"
+          },
+          "source_ref": {
+            "type": "object",
+            "properties": {
+              "file": {
+                "type": "string",
+                "nullable": true
+              },
+              "page": {
+                "type": "integer",
+                "nullable": true
+              }
+            },
+            "required": [
+              "file",
+              "page"
+            ],
+            "propertyOrdering": [
+              "file",
+              "page"
+            ]
+          }
+        },
+        "required": [
+          "line_no",
+          "item_name",
+          "description",
+          "part_number",
+          "drawing_number",
+          "brand_or_make",
+          "material",
+          "grade",
+          "standard",
+          "size_raw",
+          "other_specs",
+          "certifications_raw",
+          "quantity",
+          "quantity_raw",
+          "unit_raw",
+          "target_price_raw",
+          "item_delivery_date",
+          "remarks",
+          "source_text",
+          "source_ref"
+        ],
+        "propertyOrdering": [
+          "line_no",
+          "item_name",
+          "description",
+          "part_number",
+          "drawing_number",
+          "brand_or_make",
+          "material",
+          "grade",
+          "standard",
+          "size_raw",
+          "other_specs",
+          "certifications_raw",
+          "quantity",
+          "quantity_raw",
+          "unit_raw",
+          "target_price_raw",
+          "item_delivery_date",
+          "remarks",
+          "source_text",
+          "source_ref"
+        ]
+      }
+    },
+    "commercial_terms": {
+      "type": "object",
+      "properties": {
+        "payment_terms": {
+          "type": "string",
+          "nullable": true
+        },
+        "freight_terms": {
+          "type": "string",
+          "nullable": true
+        },
+        "warranty": {
+          "type": "string",
+          "nullable": true
+        },
+        "taxes": {
+          "type": "string",
+          "nullable": true
+        },
+        "other_terms": {
+          "type": "string",
+          "nullable": true
+        }
+      },
+      "required": [
+        "payment_terms",
+        "freight_terms",
+        "warranty",
+        "taxes",
+        "other_terms"
+      ],
+      "propertyOrdering": [
+        "payment_terms",
+        "freight_terms",
+        "warranty",
+        "taxes",
+        "other_terms"
+      ]
+    },
+    "attachments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "file_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "drawing",
+              "spec_sheet",
+              "image",
+              "other"
+            ]
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "required": [
+          "file_name",
+          "type",
+          "description"
+        ],
+        "propertyOrdering": [
+          "file_name",
+          "type",
+          "description"
+        ]
+      }
+    },
+    "missing_or_unclear": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "unstructured_notes": {
+      "type": "string",
+      "nullable": true
+    }
+  },
+  "required": [
+    "document_language",
+    "client",
+    "rfq_details",
+    "delivery",
+    "line_items",
+    "commercial_terms",
+    "attachments",
+    "missing_or_unclear",
+    "unstructured_notes"
+  ],
+  "propertyOrdering": [
+    "document_language",
+    "client",
+    "rfq_details",
+    "delivery",
+    "line_items",
+    "commercial_terms",
+    "attachments",
+    "missing_or_unclear",
+    "unstructured_notes"
+  ]
+}

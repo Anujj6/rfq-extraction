@@ -1,0 +1,40 @@
+To: sales@yourcompany.com
+
+Dear Sales Team,
+
+We are looking to procure electric chain hoists and related components for our upcoming material handling project. Please review the requirements below and share your best technical and commercial quotation.
+
+**Company:** Ganesh Material Handling Industries Pvt. Ltd.  
+**Project:** Expansion of Assembly Unit, Ahmedabad  
+**Delivery Location:** Sanand GIDC, Ahmedabad, Gujarat
+
+**Required Items:**
+
+1. Electric Chain Hoist, 2 Ton capacity, 3-phase, 415V, 50Hz, lifting height 6 metres, with pendant control – 8 Nos.
+2. Electric Chain Hoist, 5 Ton capacity, 3-phase, 415V, 50Hz, lifting height 6 metres, with pendant control – 4 Nos.
+3. Manual Push Trolley suitable for 2 Ton hoist – 8 Nos.
+4. Manual Push Trolley suitable for 5 Ton hoist – 4 Nos.
+5. Alloy Steel Load Chain, Grade 80, 10 mm diameter – 200 metres.
+6. Hoist Brake Assembly compatible with 2 Ton electric chain hoist – 4 Nos.
+
+**Commercial Requirements:**
+- Please quote prices in INR, preferably on an FOR Sanand basis.
+- GST should be mentioned separately.
+- Delivery is required within 4–6 weeks from the date of purchase order.
+- Payment terms: 30 days from delivery and acceptance of material.
+- Quotation validity: Minimum 30 days.
+- Please mention the manufacturer, make, warranty period, and country of origin for each item.
+- Technical datasheets and product drawings must be attached wherever applicable.
+- Any deviations from the requested specifications should be clearly highlighted.
+
+Kindly confirm availability and provide the earliest possible delivery schedule. If any additional technical information is required, please let us know before submitting your quotation.
+
+Please submit your quotation by **27 October 2026**.
+
+Regards,  
+**Rahul Mehta**  
+Purchase Manager  
+Ganesh Material Handling Industries Pvt. Ltd.  
+Sanand GIDC, Ahmedabad, Gujarat  
+Email: rahul.mehta@example.com  
+Phone: +91 90000 12345

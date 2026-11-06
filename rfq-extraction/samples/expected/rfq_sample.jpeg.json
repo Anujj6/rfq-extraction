@@ -1,0 +1,293 @@
+{
+  "document_language": "en",
+  "client": {
+    "company_name": "SHREE GANESH MATERIAL HANDLING PVT. LTD.",
+    "contact_person": "Rohit Patel",
+    "email": "rohit.patel@shreeganeshmh.com, purchase@shreeganeshmh.com",
+    "phone": "+91 98795 33221, +91 79 4890 2200",
+    "website": "www.shreeganeshmh.com",
+    "address": "Plot No. A-12, Industrial Area, Sanand, Ahmedabad – 382170, Gujarat, India",
+    "gst_number": null,
+    "client_reference_number": null
+  },
+  "rfq_details": {
+    "rfq_number": "SGMH/PUR/2025-26/0487",
+    "rfq_date": "14 Oct 2025",
+    "response_due_date": "22 Oct 2025",
+    "project_name": null,
+    "subject_or_summary": "Request for Quotation – Supply of Raw Materials for Electric Chain Hoist Production."
+  },
+  "delivery": {
+    "location": null,
+    "required_date": null,
+    "instructions": "As per above schedule."
+  },
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_name": "M.S. Plate for Hoist Frame",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": "IS 2062 E250 / ASTM A36",
+      "standard": null,
+      "size_raw": "Thickness: 10 mm, 20 mm",
+      "other_specs": null,
+      "certifications_raw": null,
+      "quantity": 2000,
+      "quantity_raw": "2,000",
+      "unit_raw": "Kg",
+      "target_price_raw": null,
+      "item_delivery_date": "Dec 2025",
+      "remarks": "(as per drawing)",
+      "source_text": "1 M.S. Plate for Hoist Frame IS 2062 E250 / ASTM A36 2,000 Kg Dec 2025 Thickness: 10 mm, 20 mm (as per drawing)",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 2,
+      "item_name": "Alloy Steel Round Bar (Load Chain)",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": "Grade 80",
+      "standard": null,
+      "size_raw": "Dia: 8 mm, 10 mm",
+      "other_specs": "(EN 818-2)",
+      "certifications_raw": null,
+      "quantity": 500,
+      "quantity_raw": "500",
+      "unit_raw": "Kg",
+      "target_price_raw": null,
+      "item_delivery_date": "Dec 2025",
+      "remarks": null,
+      "source_text": "2 Alloy Steel Round Bar (Load Chain) Grade 80 (EN 818-2) 500 Kg Dec 2025 Dia: 8 mm, 10 mm",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 3,
+      "item_name": "Gear Blank (Pinion & Gear)",
+      "description": null,
+      "part_number": null,
+      "drawing_number": "SGMH-GB-001",
+      "brand_or_make": null,
+      "material": null,
+      "grade": "En19 / 20MnCr5",
+      "standard": null,
+      "size_raw": null,
+      "other_specs": null,
+      "certifications_raw": null,
+      "quantity": 300,
+      "quantity_raw": "300",
+      "unit_raw": "Kg",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": "As per drawing",
+      "source_text": "3 Gear Blank (Pinion & Gear) En19 / 20MnCr5 300 Kg Jan 2026 As per drawing SGMH-GB-001",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 4,
+      "item_name": "Electric Motor (3 Phase)",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "415V, 50Hz, IE3, 1.5 kW, 4P, Foot Mounted",
+      "certifications_raw": null,
+      "quantity": 20,
+      "quantity_raw": "20",
+      "unit_raw": "Nos",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": null,
+      "source_text": "4 Electric Motor (3 Phase) 415V, 50Hz, IE3 20 Nos Jan 2026 1.5 kW, 4P, Foot Mounted",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 5,
+      "item_name": "Brake Assembly",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "Spring Applied, 415V AC",
+      "certifications_raw": null,
+      "quantity": 20,
+      "quantity_raw": "20",
+      "unit_raw": "Nos",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": "For 2T & 5T Hoist",
+      "source_text": "5 Brake Assembly Spring Applied, 415V AC 20 Nos Jan 2026 For 2T & 5T Hoist",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 6,
+      "item_name": "Control Pendant with Cable",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "IP65, 4 Button",
+      "certifications_raw": null,
+      "quantity": 20,
+      "quantity_raw": "20",
+      "unit_raw": "Nos",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": "Up/Down/East/West",
+      "source_text": "6 Control Pendant with Cable IP65, 4 Button 20 Nos Jan 2026 Up/Down/East/West",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 7,
+      "item_name": "Wire Rope (for Wire Rope Hoist)",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": "Dia: 12 mm, 16 mm",
+      "other_specs": "6x36 IWRC",
+      "certifications_raw": null,
+      "quantity": 1000,
+      "quantity_raw": "1,000",
+      "unit_raw": "Mtr",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": null,
+      "source_text": "7 Wire Rope (for Wire Rope Hoist) 6x36 IWRC 1,000 Mtr Jan 2026 Dia: 12 mm, 16 mm",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 8,
+      "item_name": "Limit Switch",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "Rotary Type, IP67",
+      "certifications_raw": null,
+      "quantity": 20,
+      "quantity_raw": "20",
+      "unit_raw": "Nos",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": "For Hoist Trolley",
+      "source_text": "8 Limit Switch Rotary Type, IP67 20 Nos Jan 2026 For Hoist Trolley",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 9,
+      "item_name": "Misc. Fasteners (Bolts, Nuts, Washers)",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": "8.8 Grade",
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "Zinc Plated",
+      "certifications_raw": null,
+      "quantity": 1,
+      "quantity_raw": "1",
+      "unit_raw": "Lot",
+      "target_price_raw": null,
+      "item_delivery_date": "Jan 2026",
+      "remarks": "As per BOM attached",
+      "source_text": "9 Misc. Fasteners (Bolts, Nuts, Washers) 8.8 Grade, Zinc Plated 1 Lot Jan 2026 As per BOM attached",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    }
+  ],
+  "commercial_terms": {
+    "payment_terms": "30 days from date of material receipt and inspection.",
+    "freight_terms": "Quotation to be in INR, on FOR Sanand (Our Works) basis.",
+    "warranty": null,
+    "taxes": "Kindly mention applicable GST separately.",
+    "other_terms": "Validity: Quotation to be valid for minimum 30 days.\nDocuments: Kindly share test certificates, material traceability (where applicable), and compliance certificates.\nPacking: Suitable for safe transport and storage.\nAny other terms and conditions may please be specified in your offer."
+  },
+  "attachments": [
+    {
+      "file_name": null,
+      "type": "drawing",
+      "description": "Drawing: SGMH-GB-001 (Gear Blank)"
+    },
+    {
+      "file_name": null,
+      "type": "other",
+      "description": "BOM: Hoist-2T & Hoist-5T"
+    },
+    {
+      "file_name": null,
+      "type": "spec_sheet",
+      "description": "Technical Specification Sheet"
+    },
+    {
+      "file_name": null,
+      "type": "other",
+      "description": "General Terms & Conditions of Purchase (GTC-25)"
+    }
+  ],
+  "missing_or_unclear": [
+    "GST number is not stated on the RFQ document.",
+    "Warranty terms are not mentioned.",
+    "Drawing referenced as 'as per drawing' in item 1 is not provided.",
+    "Drawing 'SGMH-GB-001 (Gear Blank)' is referenced in item 3 and attachments but not provided.",
+    "BOM 'Hoist-2T & Hoist-5T' referenced in item 9 and attachments is not provided.",
+    "Technical Specification Sheet and General Terms & Conditions of Purchase (GTC-25) listed under attachments are not provided.",
+    "Item 1 lists two thicknesses (10 mm, 20 mm) under a single quantity of 2,000 Kg without split.",
+    "Item 2 lists two diameters (8 mm, 10 mm) under a single quantity of 500 Kg without split.",
+    "Item 7 lists two diameters (12 mm, 16 mm) under a single quantity of 1,000 Mtr without split."
+  ],
+  "unstructured_notes": "LIFTING PEOPLE • MOVING INDUSTRY • BUILDING TOMORROW\nISO 9001:2015 CERTIFIED\nCE CERTIFIED\nReliable Lifting Solutions for a Stronger India.\nEnquiry Type: New Enquiry\nTo,\nM/s. SteelTech Industries Pvt. Ltd.\nPlot No. B-18, Phase II, GIDC, Vatva,\nAhmedabad – 382445, Gujarat, India\nKind Attn.: Sales / Commercial Team\nWe are pleased to invite your competitive quotation for the following items as per the specifications given below. Please send us your best offer latest by the response due date.\n2. TECHNICAL REFERENCE (FOR KEY ITEMS)\nElectric Chain Hoist – General Arrangement (Ref.)\n550 460 600\nLoad Chain (Ref.)\nd p\nDia (d) mm Pitch (p) mm Min. Breaking Load (kN)\n8 24 80\n10 30 125\nFor any clarification, please feel free to contact the undersigned.\nRegards,\nPurchase Manager\nShree Ganesh Material Handling Pvt. Ltd."
+}

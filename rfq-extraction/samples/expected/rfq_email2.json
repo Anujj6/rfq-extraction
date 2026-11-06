@@ -1,0 +1,117 @@
+{
+  "document_language": "en",
+  "client": {
+    "company_name": "Bharat Steel Works Pvt. Ltd.",
+    "contact_person": "Ramesh Kumar",
+    "email": null,
+    "phone": "+91-9876543210",
+    "website": null,
+    "address": "Plot 14, Industrial Area Phase 2, Ludhiana",
+    "gst_number": null,
+    "client_reference_number": null
+  },
+  "rfq_details": {
+    "rfq_number": null,
+    "rfq_date": null,
+    "response_due_date": null,
+    "project_name": null,
+    "subject_or_summary": "Enquiry for pipes and valves - urgent"
+  },
+  "delivery": {
+    "location": "our Ludhiana plant",
+    "required_date": "10-Nov-25",
+    "instructions": null
+  },
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_name": "MS ERW Pipe",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": "50 NB x 6 mtr lengths",
+      "other_specs": "IS1239 Heavy",
+      "certifications_raw": "Test certificates required for pipes.",
+      "quantity": 120,
+      "quantity_raw": "120",
+      "unit_raw": "Mtrs",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "MS ERW Pipe, IS1239 Heavy, 50 NB x 6 mtr lengths - 120 Mtrs",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 2,
+      "item_name": "Ball valve",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": "SS304",
+      "standard": null,
+      "size_raw": "2 inch",
+      "other_specs": "full bore flanged, PN16",
+      "certifications_raw": null,
+      "quantity": 18,
+      "quantity_raw": "18",
+      "unit_raw": "Nos.",
+      "target_price_raw": "Rs. 2800/- each",
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Ball valve full bore flanged, SS304, PN16, 2 inch - 18 Nos. (target Rs. 2800/- each)",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 3,
+      "item_name": "Gaskets",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "spiral wound",
+      "certifications_raw": null,
+      "quantity": null,
+      "quantity_raw": "quantity to be confirmed",
+      "unit_raw": null,
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "Gaskets, spiral wound - quantity to be confirmed",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    }
+  ],
+  "commercial_terms": {
+    "payment_terms": "50% advance, balance against delivery.",
+    "freight_terms": null,
+    "warranty": null,
+    "taxes": null,
+    "other_terms": null
+  },
+  "attachments": [],
+  "missing_or_unclear": [
+    "GST number is not provided.",
+    "RFQ number is not provided.",
+    "Item 3 (Gaskets) quantity is unconfirmed.",
+    "Item 3 (Gaskets) size or dimensions are not specified."
+  ],
+  "unstructured_notes": "Hi,\n\nPlease quote for the following.\n\nRegards,"
+}

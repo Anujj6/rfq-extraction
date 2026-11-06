@@ -1,0 +1,189 @@
+{
+  "document_language": "en",
+  "client": {
+    "company_name": "GANESH MATERIAL HANDLING INDUSTRIES PVT. LTD.",
+    "contact_person": "Rahul Mehta",
+    "email": "purchase@gmhi.example",
+    "phone": "+91 79 4000 2180",
+    "website": "www.gmhi.example",
+    "address": "Plot 42, Phase II, Sanand GIDC, Ahmedabad, Gujarat 382110, India",
+    "gst_number": null,
+    "client_reference_number": null
+  },
+  "rfq_details": {
+    "rfq_number": "GMHI/PROC/26-184",
+    "rfq_date": "20 October 2026",
+    "response_due_date": "27 October 2026, 5:00 PM IST",
+    "project_name": "Assembly Unit Expansion",
+    "subject_or_summary": "Supply of Electric Chain Hoists, Trolleys and Hoist Components"
+  },
+  "delivery": {
+    "location": "Sanand GIDC, Ahmedabad",
+    "required_date": "within 4–6 weeks from purchase order",
+    "instructions": "Provide item-wise lead time and a committed dispatch schedule."
+  },
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_name": "Electric Chain Hoist",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": "2 T",
+      "other_specs": "WLL 2,000 kg; 3-phase, 415 V, 50 Hz; 6 m lift; pendant control",
+      "certifications_raw": null,
+      "quantity": 8,
+      "quantity_raw": "8",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "1 | Electric Chain Hoist – 2 T | WLL 2,000 kg; 3-phase, 415 V, 50 Hz; 6 m lift; pendant control | 8 | Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 2,
+      "item_name": "Electric Chain Hoist",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": "5 T",
+      "other_specs": "WLL 5,000 kg; 3-phase, 415 V, 50 Hz; 6 m lift; pendant control",
+      "certifications_raw": null,
+      "quantity": 4,
+      "quantity_raw": "4",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "2 | Electric Chain Hoist – 5 T | WLL 5,000 kg; 3-phase, 415 V, 50 Hz; 6 m lift; pendant control | 4 | Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 3,
+      "item_name": "Manual Push Trolley",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": "2 T",
+      "other_specs": "Compatible with offered 2 T hoist; state beam flange range",
+      "certifications_raw": null,
+      "quantity": 8,
+      "quantity_raw": "8",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "3 | Manual Push Trolley – 2 T | Compatible with offered 2 T hoist; state beam flange range | 8 | Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 4,
+      "item_name": "Manual Push Trolley",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": "5 T",
+      "other_specs": "Compatible with offered 5 T hoist; state beam flange range",
+      "certifications_raw": null,
+      "quantity": 4,
+      "quantity_raw": "4",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "4 | Manual Push Trolley – 5 T | Compatible with offered 5 T hoist; state beam flange range | 4 | Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 5,
+      "item_name": "Alloy Steel Load Chain",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": "Grade 80",
+      "standard": null,
+      "size_raw": "nominal diameter 10 mm",
+      "other_specs": "or equivalent; traceability required",
+      "certifications_raw": null,
+      "quantity": 200,
+      "quantity_raw": "200",
+      "unit_raw": "Metres",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "5 | Alloy Steel Load Chain | Grade 80 or equivalent; nominal diameter 10 mm; traceability required | 200 | Metres",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    },
+    {
+      "line_no": 6,
+      "item_name": "Hoist Brake Assembly",
+      "description": null,
+      "part_number": null,
+      "drawing_number": null,
+      "brand_or_make": null,
+      "material": null,
+      "grade": null,
+      "standard": null,
+      "size_raw": null,
+      "other_specs": "Compatible with 2 T electric chain hoist; state make and model",
+      "certifications_raw": null,
+      "quantity": 4,
+      "quantity_raw": "4",
+      "unit_raw": "Nos.",
+      "target_price_raw": null,
+      "item_delivery_date": null,
+      "remarks": null,
+      "source_text": "6 | Hoist Brake Assembly | Compatible with 2 T electric chain hoist; state make and model | 4 | Nos.",
+      "source_ref": {
+        "file": null,
+        "page": 1
+      }
+    }
+  ],
+  "commercial_terms": {
+    "payment_terms": "Requested terms: 30 days from delivery and acceptance. Clearly state any proposed deviation.",
+    "freight_terms": "Quote in Indian Rupees (INR), preferably FOR Sanand GIDC, Ahmedabad. Identify freight, insurance, packing, and other charges.",
+    "warranty": "State duration, start date, exclusions, service response time, and process for replacement or repair.",
+    "taxes": "Show GST rate and amount separately. State HSN/SAC codes for each line item.",
+    "other_terms": "Validity: Offer shall remain valid for at least 30 calendar days from quotation submission.\nPacking and transport: Pack suitably for road transport and protect against moisture, corrosion, and handling damage. State dispatch point and freight terms.\nOrder acceptance: No substitution or deviation shall be accepted unless approved in writing before supply.\nDocuments: Provide GST details, datasheets, applicable certificates, warranty terms, and bank details on the quotation / pro forma invoice.\nLate delivery: Inform the purchaser promptly of anticipated delays and propose a recovery schedule. Any liquidated-damages clause will be agreed in the purchase order."
+  },
+  "attachments": [],
+  "missing_or_unclear": [
+    "GST number is not stated on the RFQ document."
+  ],
+  "unstructured_notes": "Header / Tagline: MATERIAL HANDLING • INDUSTRIAL EQUIPMENT • ENGINEERING SOLUTIONS\nEnquiry Type: New Purchase\nTo: Sales / Estimation Department\nDear Sir/Madam,\nPlease submit your most competitive technical and commercial offer for the items listed below. All equipment shall be new, unused, suitable for industrial duty, and supplied with applicable test certificates, operating manuals and warranty documentation. Clearly identify any deviations.\nNote: Quantities are estimated for quotation. Final quantities and configuration will be confirmed in the purchase order.\n\n2. TECHNICAL AND QUALITY REQUIREMENTS\n2.1 Duty and construction: Equipment shall be suitable for regular industrial material-handling service. State duty classification, operating cycle, and recommended service conditions.\n2.2 Electrical requirements: Motors and controls shall be compatible with 415 V, 3-phase, 50 Hz supply. State motor rating, insulation class, ingress protection rating, and control voltage.\n2.3 Safety features: Provide overload protection where applicable, upper/lower travel limits, emergency stop on pendant, and suitable braking arrangement.\n2.4 Standards and testing: State applicable IS/ISO/EN standards. Provide routine test certificates, load test certificate, and inspection reports as applicable.\n2.5 Documentation: Supply operation and maintenance manuals, recommended spare-parts list, wiring diagram, general arrangement drawing, and warranty certificate.\n2.6 Identification: Each major item shall have a durable nameplate showing manufacturer, model, serial number, rated capacity, and manufacturing date.\n\n3. BIDDER TO COMPLETE\nManufacturer / Brand: To be specified in quotation\nOffered model / part number: To be specified in quotation\nCountry of origin: To be specified in quotation\nWarranty period: State offered period\nLead time from PO: State in calendar weeks\nTechnical deviations: List each deviation; write \"Nil\" if none\nDatasheets and drawings attached: Yes / No\n\n4. INSPECTION AND ACCEPTANCE\nMaterial may be inspected at receipt for quantity, visible damage, completeness of documentation, and conformity with the purchase order. Any shortage, transit damage, or non-conformance shall be reported to the supplier for resolution. Receipt of goods does not waive the purchaser's right to raise a documented quality claim for latent defects within the applicable warranty period.\n\n6. QUOTATION SUBMISSION CHECKLIST\nItem-wise unit price and extended total for every requested line item\nGST, freight, packing, insurance and other charges shown separately\nDelivery commitment and quotation validity clearly stated\nBrand, model, datasheets, drawings and certificates attached\nAll deviations and exclusions explicitly listed\n\n7. SUBMISSION DETAILS\nEmail your signed quotation in PDF format to purchase@gmhi.example with the subject line Quotation – GMHI/PROC/26-184 – [Supplier Name] no later than 27 October 2026, 5:00 PM IST.\nFor technical clarifications, contact Rahul Mehta, Purchase Manager at +91 79 4000 2180 or purchase@gmhi.example. Any clarification affecting price or delivery should be received before the deadline.\n\nIssued by: Rahul Mehta, Purchase Manager\nAuthorised Signatory: __________________________\nDocument note: Fictional sample RFQ for software testing. Company identity, contact information, specifications, and terms are illustrative only."
+}
